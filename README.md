@@ -14,6 +14,8 @@ Your objective is study backend.
 - [x] RabbitMQ
 - [x] AWS
 - [x] Queues
+- [x] Mailer
+
 
 
 
