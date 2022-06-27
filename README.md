@@ -12,6 +12,7 @@ Your objective is study backend.
 - [x] Pipes
 - [x] Exceptions
 - [x] RabbitMQ
+- [x] SES
 - [x] AWS
 - [x] Queues
 - [x] Mailer
